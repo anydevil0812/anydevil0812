@@ -4,7 +4,7 @@
   
 ![anydevil0812's GitHub stats](https://github-readme-stats.vercel.app/api?username=anydevil0812&show_icons=true&theme=radical)
   
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>🪄 Skills</h1></div>
 <p align=center><b>Languages & Frameworks</b></p>
 
   <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white"> 
@@ -39,6 +39,14 @@
   <img src="https://img.shields.io/badge/swagger-6DB33F?style=for-the-badge&logo=swagger&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">
   <br>
+  
+  <div align=center><h1>📬 Contacts</h1></div>
+  
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lsk34789@gmail.com)](mailto:lsk34789@gmail.com)
+  [![Navermail Badge](https://img.shields.io/badge/Navermail-03C75A?style=for-the-badge&logo=naver&logoColor=white&link=mailto:anydevil0812@naver.com)](mailto:anydevil0812@naver.com)
+  [![Tech Blog Badge](http://img.shields.io/badge/Tistory-black?style=for-the-badge&logo=Tistory&link=https://coding789.tistory.com/)](https://coding789.tistory.com/)
+
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 </div>
 
 <!--
