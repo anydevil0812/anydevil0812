@@ -1,8 +1,12 @@
+<div align=center> 
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=anydevil0812's%20Github%20Profile&descAlignY=51&descAlign=62&)
+  
 ![anydevil0812's GitHub stats](https://github-readme-stats.vercel.app/api?username=anydevil0812&show_icons=true&theme=radical)
+  
 <div align=center><h1>📚 STACKS</h1></div>
 <p align=center><b>Languages & Frameworks</b></p>
-<div align=center> 
+
   <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white"> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
