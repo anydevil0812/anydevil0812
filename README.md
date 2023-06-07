@@ -22,7 +22,7 @@
   
   <img src="https://img.shields.io/badge/GCP-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white">
-  <img src="https://img.shields.io/badge/solidity-181717?style=for-the-badge&logo=solidity&logoColor=white">
+  <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
   
   <br>
   <br>
