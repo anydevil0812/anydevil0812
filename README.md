@@ -5,7 +5,7 @@
 ![anydevil0812's GitHub stats](https://github-readme-stats.vercel.app/api?username=anydevil0812&show_icons=true&theme=radical)
   
 <div align=center><h1>🪄 Skills</h1></div>
-<p align=center><b>Languages & Frameworks</b></p>
+<p align=center><b>Languages & Frameworks & Libraries</b></p>
 
   <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white"> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
